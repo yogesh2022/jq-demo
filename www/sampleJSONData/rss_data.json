@@ -1,0 +1,23 @@
+{
+	"rss_1":{
+        "rssTitle":"Mozilla Firefox",
+        "imgThumbPath":"images/thumbnails/img_1.png",
+        "imgThumbPathFULL":"images/thumb/rss_fullsize_1.png",
+        "rssDescriptionShort":"The best open sourse browser for development.",
+        "rssDescriptionFull":"The name for Firefox 3.0 while it was being made was Gran Paradiso. \"Gran Paradiso\", like other Firefox development names, is an actual place; in this case the second-highest mountain group in the Graian Alps. In 2006, the development team asked people who use Firefox to submit feature ideas that they wanted to be in Firefox 3. NetApplications says that the use of Firefox 3 has been going up very fast to a usage share of 23.75% in September 2009. They think that this increase means that Firefox 3 is stable and that users are using it as their main browser."
+	},
+	"rss_2":{
+        "rssTitle":"Google Chrome",
+        "imgThumbPath":"images/thumbnails/img_2.png",
+        "imgThumbPathFULL":"images/thumbnails/img_2.png",
+        "rssDescriptionShort":"Worlds most downloaded browser.",
+        "rssDescriptionFull":"Google's Eric Schmidt opposed the development of an independent web browser for six years. He stated that \"at the time, Google was a small company,\" and he did not want to go through \"bruising browser wars.\" After co-founders Sergey Brin and Larry Page hired several Mozilla Firefox developers and built a demonstration of Chrome, however, Schmidt admitted that \"It was so good that it essentially forced me to change my mind."
+	},
+	"rss_3":{
+        "rssTitle":"Internet Explorer 10",
+        "imgThumbPath":"images/thumbnails/img_3.png",
+        "imgThumbPathFULL":"images/thumbnails/img_3.png",
+        "rssDescriptionShort":"Slowly chasing the race.",
+        "rssDescriptionFull":"Internet Explorer 10 was first announced on 12 April 2011 at the MIX 11 conference in Las Vegas. In this conference, Microsoft showcased a demo version of Internet Explorer 10 along with a demo version of Windows 8. On the same day, a Platform Preview of Internet Explorer 10 was released on the Microsoft Internet Explorer Test Drive website. It only supports Windows 7, later platform previews only support Windows 8. Internet Explorer 10 Platform Preview 1 supports CSS3 grid layout, CSS3 flexible box layout, CSS3 multi-column layout, CSS3 gradient, and full hardware acceleration."
+	}
+}
